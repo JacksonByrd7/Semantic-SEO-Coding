@@ -17,3 +17,11 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+![Alt text](image.png)
+
+Link to Project
+https://jacksonbyrd7.github.io/Semantic-SEO-Coding/
+
+Link to Github Repo
+https://github.com/JacksonByrd7/Semantic-SEO-Coding
