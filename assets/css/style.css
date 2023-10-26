@@ -163,7 +163,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/*changed h2 to h4 selector to apply text to h4 in footer*/
+.footer h4 {
     font-size: 20px;
 }
