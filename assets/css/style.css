@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* moved list style type into existing block, deleted unnessesary block*/
 .header ul {
     padding-top: 15px;
     margin-right: 20px;
